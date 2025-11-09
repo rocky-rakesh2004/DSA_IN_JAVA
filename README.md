@@ -45,13 +45,6 @@ The purpose of this repository:
 
 3. Navigate to the desired folder and run the .java files
 
-📊 Repository Status
-Category	Status
-🏗️ Project Type	Personal Learning Repo
-🔥 Activity	Actively Updated
-📦 Repository	Public
-💻 Language	Java
-⚙️ Focus	Data Structures & Algorithms
 
 
 ## 🔗 **Connect With Me**
